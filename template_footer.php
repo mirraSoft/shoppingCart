@@ -1,0 +1,1 @@
+<div id="pageFooter">Copyright | <a href="user_login.php">Admin</a></div>
